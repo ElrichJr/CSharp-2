@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This is a comment.-->
+<root>
+  <SourceDirectory>SourceDir</SourceDirectory>
+  <TargetDirectory>TargetDir</TargetDirectory>
+  <NeedToArchive>true</NeedToArchive>
+  <NeedToEncrypt>false</NeedToEncrypt>
+</root>
